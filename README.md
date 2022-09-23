@@ -1,6 +1,6 @@
 # ecommerce_app
 
-A new Flutter project.
+Aplikasi ini berbentuk toko online yang dibuat dengan bahasa pemrograman Dart dan framework Flutter.
 
 ## Getting Started
 
